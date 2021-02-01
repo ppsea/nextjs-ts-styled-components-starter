@@ -1,0 +1,42 @@
+{
+  "name": "nextjs-ts-styled-components-starter",
+  "version": "1.0.0",
+  "description": "starter kit with nextjs ,typescript, styled-components",
+  "main": "index.js",
+  "repository": "https://github.com/ppsea/nextjs-ts-styled-components-starter.git",
+  "author": "ppsea <ksn569@gmail.com>",
+  "license": "MIT",
+  "engines": {
+    "node": "12.x"
+  },
+  "scripts": {
+    "dev": "next",
+    "start": "next start",
+    "build": "next build"
+  },
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "next": "^10.0.6",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "smoothscroll-polyfill": "^0.4.4",
+    "styled-components": "^5.2.1",
+    "styled-reset": "^4.3.4",
+    "validator": "^13.5.2"
+  },
+  "devDependencies": {
+    "@types/node": "12.x",
+    "@types/react": "^17.0.0",
+    "@types/smoothscroll-polyfill": "^0.3.1",
+    "@types/styled-components": "^5.1.7",
+    "@types/validator": "^13.1.3",
+    "@typescript-eslint/eslint-plugin": "^4.14.1",
+    "@typescript-eslint/parser": "^4.14.1",
+    "eslint": "^7.19.0",
+    "eslint-config-prettier": "^7.2.0",
+    "eslint-plugin-react": "^7.22.0",
+    "eslint-plugin-react-hooks": "^4.2.0",
+    "prettier": "^2.2.1",
+    "typescript": "^4.1.3"
+  }
+}
