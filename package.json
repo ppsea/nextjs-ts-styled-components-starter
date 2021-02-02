@@ -19,6 +19,7 @@
     "next": "^10.0.6",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
+    "react-sizes": "^2.0.0",
     "smoothscroll-polyfill": "^0.4.4",
     "styled-components": "^5.2.1",
     "styled-reset": "^4.3.4",
@@ -27,6 +28,7 @@
   "devDependencies": {
     "@types/node": "12.x",
     "@types/react": "^17.0.0",
+    "@types/react-sizes": "^2.0.0",
     "@types/smoothscroll-polyfill": "^0.3.1",
     "@types/styled-components": "^5.1.7",
     "@types/validator": "^13.1.3",

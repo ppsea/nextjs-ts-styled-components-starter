@@ -6,7 +6,7 @@
 
 - specific node module : 12
 - next.js 10+
-- styled components, styled reset
+- styled components, styled reset, react-sizes
 - libraries
   - smoothscroll-polyfill : for smooth scroll
   - validator : for validating

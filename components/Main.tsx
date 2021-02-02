@@ -8,4 +8,13 @@ export default function Main() {
 const Greeting = styled.h1`
   font-size: 22px;
   font-weight: 700;
+  ${props => props.theme.medias.mobile} {
+    color: red;
+  }
+  ${props => props.theme.medias.pad} {
+    color: green;
+  }
+  ${props => props.theme.medias.desktop} {
+    color: blue;
+  }
 `;
